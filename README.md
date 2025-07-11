@@ -6,11 +6,4 @@ Input:
 Output
    simple interest = p*t*r
 
-
-# Simple Interest Calculator
-
-This is a simple bash script to calculate simple interest.
-
-## Usage
-```bash
-./simple-interest.sh
+2022 XYZ, Inc
